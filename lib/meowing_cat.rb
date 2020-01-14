@@ -1,3 +1,3 @@
 class Cat
   
-  attr_acessor
+  attr_acessor :name
